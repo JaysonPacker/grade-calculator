@@ -1,0 +1,14 @@
+C:\Users\packerw1\Desktop\hw.gradeCalculator\hw.gradeCalculator\bin\Debug\net8.0\hw.gradeCalculator.exe
+C:\Users\packerw1\Desktop\hw.gradeCalculator\hw.gradeCalculator\bin\Debug\net8.0\hw.gradeCalculator.deps.json
+C:\Users\packerw1\Desktop\hw.gradeCalculator\hw.gradeCalculator\bin\Debug\net8.0\hw.gradeCalculator.runtimeconfig.json
+C:\Users\packerw1\Desktop\hw.gradeCalculator\hw.gradeCalculator\bin\Debug\net8.0\hw.gradeCalculator.dll
+C:\Users\packerw1\Desktop\hw.gradeCalculator\hw.gradeCalculator\bin\Debug\net8.0\hw.gradeCalculator.pdb
+C:\Users\packerw1\Desktop\hw.gradeCalculator\hw.gradeCalculator\obj\Debug\net8.0\hw.gradeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\packerw1\Desktop\hw.gradeCalculator\hw.gradeCalculator\obj\Debug\net8.0\hw.gradeCalculator.AssemblyInfoInputs.cache
+C:\Users\packerw1\Desktop\hw.gradeCalculator\hw.gradeCalculator\obj\Debug\net8.0\hw.gradeCalculator.AssemblyInfo.cs
+C:\Users\packerw1\Desktop\hw.gradeCalculator\hw.gradeCalculator\obj\Debug\net8.0\hw.gradeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\packerw1\Desktop\hw.gradeCalculator\hw.gradeCalculator\obj\Debug\net8.0\hw.gradeCalculator.dll
+C:\Users\packerw1\Desktop\hw.gradeCalculator\hw.gradeCalculator\obj\Debug\net8.0\refint\hw.gradeCalculator.dll
+C:\Users\packerw1\Desktop\hw.gradeCalculator\hw.gradeCalculator\obj\Debug\net8.0\hw.gradeCalculator.pdb
+C:\Users\packerw1\Desktop\hw.gradeCalculator\hw.gradeCalculator\obj\Debug\net8.0\hw.gradeCalculator.genruntimeconfig.cache
+C:\Users\packerw1\Desktop\hw.gradeCalculator\hw.gradeCalculator\obj\Debug\net8.0\ref\hw.gradeCalculator.dll
